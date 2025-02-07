@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROTIV - Consultoria e Assessoria Financeira</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {ROTIV
+            background-color: #2f855a;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            padding: 1rem;
+            max-width: 960px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #2f855a;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+        }
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .plan {
+            background-color: #edf2f7;
+            border-left: 5px solid #2f855a;
+            padding: 1rem;
+        }
+        .plan-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: #2f855a;
+            color: white;
+            text-align: center;
+            padding: 0.5rem 0;
+            position: relative;
+        }
+        .whatsapp-icon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #25d366;
+            border-radius: 50%;
+            padding: 15px;
+        }
+        .whatsapp-icon img {
+            width: 40px;
+            height: 40px;
+        }
+        .financial-image {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ROTIV - Consultoria e Assessoria Financeira</h1>
+    </header>
+
+    <!-- WhatsApp Icon -->
+    <a href="https://wa.me/558389085449" target="_blank" class="whatsapp-icon">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+    </a>
+
+    <div class="container">
+        <section>
+            <h2>Quem Somos</h2>
+            <p>Especialistas em gestão e planejamento financeiro, oferecemos soluções personalizadas para otimizar suas finanças, automatizar processos e garantir a sustentabilidade do seu negócio. Nosso foco é entregar resultados que simplificam sua vida financeira e potencializam o crescimento da sua empresa.</p>
+        </section>
+
+        <section>
+            <h2>Gestão Financeira</h2>
+             Nossa missão é oferecer soluções completas para uma gestão financeira eficiente e segura.</p>
+        </section>
+
+        <section>
+            <h2>Serviços Oferecidos</h2>
+            <div class="card">
+                <h3>Gestão de Fluxo de Caixa</h3>
+                <ul>
+                    <li>Monitoramento de entradas e saídas financeiras</li>
+                    <li>Controle eficiente de contas a pagar e receber</li>
+                    <li>Projeções para tomada de decisões estratégicas</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Soluções de Pagamento</h3>
+                <ul>
+                    <li>Facilitação de meios de pagamento para clientes</li>
+                    <li>Emissão de notas fiscais e relatórios financeiros</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Planejamento Financeiro</h3>
+                <ul>
+                    <li>Desenvolvimento de estratégias para expansão</li>
+                    <li>Alocação inteligente de recursos</li>
+                    <li>Gestão de riscos para minimizar perdas</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Automatização Financeira</h3>
+                <ul>
+                    <li>Automatização de processos financeiros repetitivos</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Consultoria Estratégica</h3>
+                <ul>
+                    <li>Análise de crédito para evitar inadimplência</li>
+                    <li>Orientação para decisões financeiras complexas</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Benefícios ao Contratar Nossos Serviços</h2>
+            <ul>
+                <li>Economia de Tempo: Automalização de processos e controle financeiro eficaz</li>
+                <li>Redução de Riscos: Prevenção de inadimplências e perdas financeiras</li>
+                <li>Decisões Mais Inteligentes: Projeções financeiras claras e estratégias personalizadas</li>
+                <li>Crescimento Sustentável: Planejamento financeiro estratégico para expansão</li>
+                <li>Suporte Contínuo: Atendimento próximo e personalizado</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Nossos Planos</h2>
+            <div class="plan">
+                <div class="plan-title">Plano Essencial - R$ 1.379,00/mês</div>
+                <ul>
+                    <li>Gestão de contas a pagar e receber</li>
+                    <li>Controle de fluxo de caixa</li>
+                    <li>Relatórios financeiros básicos</li>
+                </ul>
+            </div>
+            <div class="plan">
+                <div class="plan-title">Plano Profissional - R$ 2.499,00/mês</div>
+                <ul>
+                    <li>Todos os serviços do Plano Essencial</li>
+                    <li>Projeções financeiras trimestrais</li>
+                    <li>Planejamento estratégico financeiro</li>
+              
+                        
+                </ul>
+            </div>
+            <div class="plan">
+                <div class="plan-title">Plano Premium - R$ 4.500,00/mês</div>
+                <ul>
+                    <li>Serviços completos, incluindo automação de processos financeiros</li>
+                    <li>Consultoria contínua e personalizada</li>
+                    <li>Relatórios avançados e análise de crédito</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Por Que Escolher Nossos Serviços?</h2>
+            <ul>
+                <li>Soluções adaptadas ao seu negócio</li>
+                <li>Transparência e confiança</li>
+                <li>Automação para maior eficiência</li>
+                <li>Planejamento estratégico para crescimento sustentável</li>
+                <li>Suporte próximo e contínuo</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2025 Rotiv Consultoria e Assessoria Financeira. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
